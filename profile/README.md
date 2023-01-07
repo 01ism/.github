@@ -11,6 +11,9 @@
 
 > 觉佛悟道, 百家争鸣.
 
+- [諸子百家](https://zh.wikipedia.org/zh-tw/%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6)
+- [墨家](https://zh.wikipedia.org/zh-tw/%E5%A2%A8%E5%AE%B6)
+- [法家](https://zh.wikipedia.org/zh-tw/%E6%B3%95%E5%AE%B6)
 
 ## 儒 释 道:
 
