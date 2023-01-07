@@ -27,9 +27,13 @@
         - 過去佛: [燃燈佛](https://zh.wikipedia.org/zh-tw/%E7%87%83%E7%81%AF%E4%BD%9B)
         - 現在佛: [釋迦牟尼佛 「佛陀（佛）」](https://zh.wikipedia.org/zh-tw/%E9%87%8A%E8%BF%A6%E7%89%9F%E5%B0%BC%E4%BD%9B)
         - 未來佛: [彌勒佛](https://zh.wikipedia.org/zh-tw/%E5%BD%8C%E5%8B%92%E8%8F%A9%E8%96%A9)
-    - [六道](https://zh.wikipedia.org/zh-tw/%E5%85%AD%E9%81%93) / [轮回](https://zh.wikipedia.org/zh-tw/%E8%BD%AE%E5%9B%9E)
+    - [觉 = 菩提 = 悟](https://zh.wikipedia.org/wiki/%E8%A6%BA_(%E4%BD%9B%E6%95%99))
+    - [业: 善业 vs 恶业](https://zh.wikipedia.org/wiki/%E6%A5%AD_(%E4%BD%9B%E6%95%99))
+    - [六道](https://zh.wikipedia.org/zh-tw/%E5%85%AD%E9%81%93)
         - 三善道: 天、阿修羅、人
         - 三惡道: 畜生、餓鬼、地獄
+    - [因果](https://zh.wikipedia.org/wiki/%E5%9B%A0%E6%9E%9C%E8%AE%BA_(%E4%BD%9B%E6%95%99))
+    - [轮回](https://zh.wikipedia.org/zh-tw/%E8%BD%AE%E5%9B%9E)
     - [誓愿](https://zh.wikipedia.org/wiki/%E9%A1%98_(%E4%BD%9B%E6%95%99))
     - [無上正等正覺](https://zh.wikipedia.org/zh-tw/%E7%84%A1%E4%B8%8A%E6%AD%A3%E7%AD%89%E6%AD%A3%E8%A6%BA)
     - [大乘](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%B9%98%E4%BD%9B%E6%95%99) vs [小乘](https://zh.wikipedia.org/wiki/%E5%B0%8F%E4%B9%98%E4%BD%9B%E6%95%99)
