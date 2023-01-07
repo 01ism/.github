@@ -11,6 +11,7 @@
 
 > 觉佛悟道, 百家争鸣.
 
+- 儒(Confucianism) 释(Buddhism) 道(Taoism)
 
 
 
