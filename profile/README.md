@@ -11,7 +11,32 @@
 
 > 觉佛悟道, 百家争鸣.
 
-- 儒(Confucianism) 释(Buddhism) 道(Taoism)
+
+## 儒 释 道:
+
+
+- 💖 [儒(Confucianism)](https://zh.wikipedia.org/zh-tw/%E5%84%92%E5%AE%B6) 
+    - 孔子/孟子
+    - 四書:《論語》《孟子》《大學》《中庸》。
+    - 五經:《詩經》《尚書》《禮記》[《周易》](https://zh.wikipedia.org/zh-tw/%E6%98%93%E7%BB%8F)和《春秋》。
+- 💖 [释(Buddhism)](https://zh.wikipedia.org/zh-tw/%E4%BD%9B%E6%95%99) 
+    - 三世佛:
+        - 過去佛: [燃燈佛](https://zh.wikipedia.org/zh-tw/%E7%87%83%E7%81%AF%E4%BD%9B)
+        - 現在佛: [釋迦牟尼佛 「佛陀（佛）」](https://zh.wikipedia.org/zh-tw/%E9%87%8A%E8%BF%A6%E7%89%9F%E5%B0%BC%E4%BD%9B)
+        - 未來佛: [彌勒佛](https://zh.wikipedia.org/zh-tw/%E5%BD%8C%E5%8B%92%E8%8F%A9%E8%96%A9)
+    - [六道](https://zh.wikipedia.org/zh-tw/%E5%85%AD%E9%81%93) / [轮回](https://zh.wikipedia.org/zh-tw/%E8%BD%AE%E5%9B%9E)
+        - 三善道: 天、阿修羅、人
+        - 三惡道: 畜生、餓鬼、地獄
+    - [誓愿](https://zh.wikipedia.org/wiki/%E9%A1%98_(%E4%BD%9B%E6%95%99))
+    - [無上正等正覺](https://zh.wikipedia.org/zh-tw/%E7%84%A1%E4%B8%8A%E6%AD%A3%E7%AD%89%E6%AD%A3%E8%A6%BA)
+    - [大乘](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%B9%98%E4%BD%9B%E6%95%99) vs [小乘](https://zh.wikipedia.org/wiki/%E5%B0%8F%E4%B9%98%E4%BD%9B%E6%95%99)
+    - [《金刚经》](https://zh.wikipedia.org/wiki/%E9%87%91%E5%89%9B%E7%B6%93)
+    - [《心经》](https://zh.wikipedia.org/wiki/%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E5%A4%9A%E5%BF%83%E7%B6%93)
+- 💖 [道(Taoism)](https://zh.wikipedia.org/zh-tw/%E9%81%93%E6%95%99)
+    - 老子/庄子
+    - [道家](https://zh.wikipedia.org/zh-tw/%E9%81%93%E5%AE%B6) vs [道教](https://zh.wikipedia.org/zh-tw/%E9%81%93%E6%95%99)
+    - 阴阳/五行/八卦
+    - [《道德經》](https://zh.wikipedia.org/zh-tw/%E8%80%81%E5%AD%90_(%E6%9B%B8)) [《莊子》](https://zh.wikipedia.org/zh-tw/%E8%8E%8A%E5%AD%90_(%E6%9B%B8))
 
 
 
@@ -30,7 +55,7 @@
 
 ## related:
 
-> 🌈儒:
+> 🌈 儒:
 
 - https://github.com/Chinese-Traditional-Culture/RuJia
 
