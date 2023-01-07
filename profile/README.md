@@ -26,6 +26,35 @@
    - [禅宗](https://zh.wikipedia.org/zh-tw/%E7%A6%85%E5%AE%97)
 
 
+
+## related:
+
+> 🌈儒:
+
+- https://github.com/Chinese-Traditional-Culture/RuJia
+
+> 🌈 释(佛):
+
+- https://github.com/gwsice/buddhism
+- https://github.com/xtaci/buddha
+
+> 🌈 道:
+
+
+- https://github.com/Chinese-Traditional-Culture/DaoJia
+- https://chinese-traditional-culture.github.io/DaoJia/
+
+> 🌈 易:
+
+- https://github.com/rockyCheung/godwill
+- https://github.com/bollwarm/ZHOUYI
+- https://github.com/lisniuse/exuege
+- https://github.com/EMDCYY/Future-Telling-By-I-Ching
+- https://www.tianliaohui.com/categories/%E6%98%93%E7%BB%8F/%E6%A2%85%E8%8A%B1%E6%98%93%E6%95%B0/
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
